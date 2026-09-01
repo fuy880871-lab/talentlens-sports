@@ -1,5 +1,7 @@
 # TalentLens Sports｜行业人才与薪酬决策平台
 
+**在线体验：** [打开 TalentLens Sports 决策平台](https://talentlens-sports-fuy.fuy880871.chatgpt.site)
+
 ![TalentLens Sports 项目封面](public/og.png)
 
 一个面向体育公司的 HR 数据解决方案作品集项目。平台以虚构的“跃界体育集团”为案例，把人才供需、岗位解析、薪酬洞察与编制测算串成一条可交互的管理决策链路。
@@ -8,7 +10,7 @@
 
 ## 在线体验
 
-仓库上传 GitHub 后，可按下方“本地运行”启动。当前版本不需要账号、数据库或 API Key。
+[点击进入公开体验站点](https://talentlens-sports-fuy.fuy880871.chatgpt.site)。当前版本不需要账号、数据库或 API Key，电脑和手机浏览器均可访问。
 
 ## 业务问题
 
